@@ -1,0 +1,22 @@
+html{
+    background-color:black;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 30;
+}
+details{
+    list-style-type: none;
+}
+summary{
+    color:whitesmoke;
+}
+#YB{
+    color:#a38d2c;
+}
+#DB{
+    color: #1D1339;
+    background-color:whitesmoke;
+}
+#LBT{
+    color: #40BFAA;
+}

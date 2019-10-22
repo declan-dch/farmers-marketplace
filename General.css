@@ -1,0 +1,14 @@
+#PageTitle{
+    color:#c4a935;
+    font-size: 60;
+    border-bottom: 5px solid #a38c2c;
+    background-color: rgba(50, 50, 50, 1);
+    border-radius: 25px;
+}
+#BottomText{
+    font-size:8px;
+    margin-bottom: auto;
+    bottom:0;
+    position:absolute;
+    color: white;
+}
