@@ -19,7 +19,7 @@
 #navbar{
     background-color: #333333;
     margin: -10px;
-    padding: 30px;
+    padding: 35px;
     word-spacing: 4em;
     text-align: center;
 }
@@ -36,6 +36,6 @@
     text-decoration: none;
 }
 
-#navbar img{
+#navbaroverlay img{
     float: left;
 }
