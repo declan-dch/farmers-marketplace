@@ -1,9 +1,13 @@
 .default{
+    background-color: #FFFFFF;
+}
 
+.titles{
+    font-size: 50px;
 }
 
 #navbar{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+    background-color: #333333;
+    margin: -10px;
+    padding: 15px;
 }
